@@ -1,0 +1,11 @@
+Ticker,Summary,Sentiment Score,Url
+ETH,Gary Gensler’s comments have rattled investor confidence. Ether has lost 20% of its value since moving to proof of stake,NEGATIVE,0.9982531666755676,https://uk.finance.yahoo.com/news/ethereum-price-drops-sec-declares-control-093528955.html
+ETH,Keiser and Herbert appeared on Yahoo Finance's The Crypto Mile. Bitcoin pioneers Max Keiser and Stacy Herbert,NEGATIVE,0.9430971741676331,https://finance.yahoo.com/news/max-keiser-ethereum-fiat-money-110107003.html
+ETH,"Pullback in energy consumption caused by move to proof-of-stake. Advocates say move will make Ethereum faster, cheaper",NEGATIVE,0.9887157082557678,https://finance.yahoo.com/news/eth-trading-ethereum-merge-142242016.html
+ETH,Vitalik Buterin says upgrade to low-energy proof-of-stake blockchain successful. Crypto experts warn of three major threats to Ethereum ecosystem,POSITIVE,0.9673567414283752,https://ca.finance.yahoo.com/news/ethereum-merge-up-150608770.html
+ETH,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/ethereum-merge-sets-cryptocurrency-foundation-211902236.html
+ETH,Miners are flocking to Ethereum Classic instead of The Merge.,POSITIVE,0.9881471991539001,https://finance.yahoo.com/news/miners-flee-ethereum-classic-merge-141825062.html
+ETH,stETH will be bridged over from Ethereum’s main network to Arbitrum and Optimism.,POSITIVE,0.99479079246521,https://finance.yahoo.com/news/lido-steth-token-expands-layer-205004365.html
+ETH,Vitalik Buterin says ‘this is a big moment for the Ethereum ecosystem’. Ethereum ‘merge’ successfully completed without major issues,POSITIVE,0.9995433688163757,https://uk.finance.yahoo.com/news/ethereum-merge-eth-price-crypto-bitcoin-085614447.html
+ETH,Ethereum completes historic shift to a more energy-efficient blockchain. Ether has lost more than a quarter of its value this year,NEGATIVE,0.9995111227035522,https://finance.yahoo.com/news/pivotal-ethereum-merge-brings-sell-163054905.html
+ETH,Ether is set to start a process known as Merge. Here’s what you need to know about the cryptocurrency,POSITIVE,0.902458667755127,https://finance.yahoo.com/news/does-ethereums-merge-eth-must-204351663.html
